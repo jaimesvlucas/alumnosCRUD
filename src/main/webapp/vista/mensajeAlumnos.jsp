@@ -30,7 +30,6 @@
                     <form action="ServletAlumnos" method="post">
                         <table class="table">
                             <tr>
-                                <th></th>
                                 <th>Nombre</th>
                                 <th>Apellidos</th>
                                 <th>Email</th>
